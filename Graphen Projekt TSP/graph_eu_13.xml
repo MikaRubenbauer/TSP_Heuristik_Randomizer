@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<graph id="test">
+<!--Knoten-->
+<node id="Bonn"><data key="lat">50.7347222222</data><data key="lon">7.10055555556</data></node>
+<node id="Paris"><data key="lat">48.8666666667</data><data key="lon">2.33333333333</data></node>
+<node id="Rom"><data key="lat">41.9</data><data key="lon">12.4833333333</data></node>
+<node id="Den Haag"><data key="lat">52.0666666667</data><data key="lon">4.31666666667</data></node>
+<node id="Luxemburg"><data key="lat">49.6</data><data key="lon">6.11666666667</data></node>
+<node id="Brüssel"><data key="lat">50.8333333333</data><data key="lon">4.33333333333</data></node>
+<node id="Kopenhagen"><data key="lat">55.6666666667</data><data key="lon">12.5833333333</data></node>
+<node id="Dublin"><data key="lat">53.3333333333</data><data key="lon">-6.25</data></node>
+<node id="London"><data key="lat">51.5166666667</data><data key="lon">-0.0833333333333</data></node>
+<node id="Athen"><data key="lat">37.9666666667</data><data key="lon">23.7166666667</data></node>
+<node id="Madrid"><data key="lat">40.4</data><data key="lon">-3.68333333333</data></node>
+<node id="Lissabon"><data key="lat">38.7166666667</data><data key="lon">-9.13333333333</data></node>
+<node id="Stockholm"><data key="lat">59.3333333333</data><data key="lon">18.05</data></node>
+<!--Kanten-->
+<edge source="Bonn" target="Paris"><data key="gewicht">400.6</data></edge>
+<edge source="Bonn" target="Rom"><data key="gewicht">1066.3</data></edge>
+<edge source="Bonn" target="Den Haag"><data key="gewicht">243.6</data></edge>
+<edge source="Bonn" target="Luxemburg"><data key="gewicht">144.5</data></edge>
+<edge source="Bonn" target="Brüssel"><data key="gewicht">195.1</data></edge>
+<edge source="Bonn" target="Kopenhagen"><data key="gewicht">659.2</data></edge>
+<edge source="Bonn" target="Dublin"><data key="gewicht">957.3</data></edge>
+<edge source="Bonn" target="London"><data key="gewicht">509.2</data></edge>
+<edge source="Bonn" target="Athen"><data key="gewicht">1932.8</data></edge>
+<edge source="Bonn" target="Madrid"><data key="gewicht">1421.6</data></edge>
+<edge source="Bonn" target="Lissabon"><data key="gewicht">1846.4</data></edge>
+<edge source="Bonn" target="Stockholm"><data key="gewicht">1181.8</data></edge>
+<edge source="Paris" target="Bonn"><data key="gewicht">400.6</data></edge>
+<edge source="Paris" target="Rom"><data key="gewicht">1107.8</data></edge>
+<edge source="Paris" target="Den Haag"><data key="gewicht">382.9</data></edge>
+<edge source="Paris" target="Luxemburg"><data key="gewicht">286.8</data></edge>
+<edge source="Paris" target="Brüssel"><data key="gewicht">261.8</data></edge>
+<edge source="Paris" target="Kopenhagen"><data key="gewicht">1027.8</data></edge>
+<edge source="Paris" target="Dublin"><data key="gewicht">778.4</data></edge>
+<edge source="Paris" target="London"><data key="gewicht">341.6</data></edge>
+<edge source="Paris" target="Athen"><data key="gewicht">2100.6</data></edge>
+<edge source="Paris" target="Madrid"><data key="gewicht">1055.4</data></edge>
+<edge source="Paris" target="Lissabon"><data key="gewicht">1454.7</data></edge>
+<edge source="Paris" target="Stockholm"><data key="gewicht">1544.7</data></edge>
+<edge source="Rom" target="Bonn"><data key="gewicht">1066.3</data></edge>
+<edge source="Rom" target="Paris"><data key="gewicht">1107.8</data></edge>
+<edge source="Rom" target="Den Haag"><data key="gewicht">1288.7</data></edge>
+<edge source="Rom" target="Luxemburg"><data key="gewicht">988.8</data></edge>
+<edge source="Rom" target="Brüssel"><data key="gewicht">1173.5</data></edge>
+<edge source="Rom" target="Kopenhagen"><data key="gewicht">1532.6</data></edge>
+<edge source="Rom" target="Dublin"><data key="gewicht">1885.8</data></edge>
+<edge source="Rom" target="London"><data key="gewicht">1433.5</data></edge>
+<edge source="Rom" target="Athen"><data key="gewicht">1053.0</data></edge>
+<edge source="Rom" target="Madrid"><data key="gewicht">1363.4</data></edge>
+<edge source="Rom" target="Lissabon"><data key="gewicht">1863.8</data></edge>
+<edge source="Rom" target="Stockholm"><data key="gewicht">1978.5</data></edge>
+<edge source="Den Haag" target="Bonn"><data key="gewicht">243.6</data></edge>
+<edge source="Den Haag" target="Paris"><data key="gewicht">382.9</data></edge>
+<edge source="Den Haag" target="Rom"><data key="gewicht">1288.7</data></edge>
+<edge source="Den Haag" target="Luxemburg"><data key="gewicht">302.3</data></edge>
+<edge source="Den Haag" target="Brüssel"><data key="gewicht">137.3</data></edge>
+<edge source="Den Haag" target="Kopenhagen"><data key="gewicht">673.9</data></edge>
+<edge source="Den Haag" target="Dublin"><data key="gewicht">725.9</data></edge>
+<edge source="Den Haag" target="London"><data key="gewicht">309.0</data></edge>
+<edge source="Den Haag" target="Athen"><data key="gewicht">2176.3</data></edge>
+<edge source="Den Haag" target="Madrid"><data key="gewicht">1435.4</data></edge>
+<edge source="Den Haag" target="Lissabon"><data key="gewicht">1814.2</data></edge>
+<edge source="Den Haag" target="Stockholm"><data key="gewicht">1177.6</data></edge>
+<edge source="Luxemburg" target="Bonn"><data key="gewicht">144.5</data></edge>
+<edge source="Luxemburg" target="Paris"><data key="gewicht">286.8</data></edge>
+<edge source="Luxemburg" target="Rom"><data key="gewicht">988.8</data></edge>
+<edge source="Luxemburg" target="Den Haag"><data key="gewicht">302.3</data></edge>
+<edge source="Luxemburg" target="Brüssel"><data key="gewicht">187.0</data></edge>
+<edge source="Luxemburg" target="Kopenhagen"><data key="gewicht">803.6</data></edge>
+<edge source="Luxemburg" target="Dublin"><data key="gewicht">951.3</data></edge>
+<edge source="Luxemburg" target="London"><data key="gewicht">487.4</data></edge>
+<edge source="Luxemburg" target="Athen"><data key="gewicht">1909.1</data></edge>
+<edge source="Luxemburg" target="Madrid"><data key="gewicht">1279.9</data></edge>
+<edge source="Luxemburg" target="Lissabon"><data key="gewicht">1711.7</data></edge>
+<edge source="Luxemburg" target="Stockholm"><data key="gewicht">1326.2</data></edge>
+<edge source="Brüssel" target="Bonn"><data key="gewicht">195.1</data></edge>
+<edge source="Brüssel" target="Paris"><data key="gewicht">261.8</data></edge>
+<edge source="Brüssel" target="Rom"><data key="gewicht">1173.5</data></edge>
+<edge source="Brüssel" target="Den Haag"><data key="gewicht">137.3</data></edge>
+<edge source="Brüssel" target="Luxemburg"><data key="gewicht">187.0</data></edge>
+<edge source="Brüssel" target="Kopenhagen"><data key="gewicht">768.1</data></edge>
+<edge source="Brüssel" target="Dublin"><data key="gewicht">774.7</data></edge>
+<edge source="Brüssel" target="London"><data key="gewicht">317.4</data></edge>
+<edge source="Brüssel" target="Athen"><data key="gewicht">2092.5</data></edge>
+<edge source="Brüssel" target="Madrid"><data key="gewicht">1316.8</data></edge>
+<edge source="Brüssel" target="Lissabon"><data key="gewicht">1712.5</data></edge>
+<edge source="Brüssel" target="Stockholm"><data key="gewicht">1283.3</data></edge>
+<edge source="Kopenhagen" target="Bonn"><data key="gewicht">659.2</data></edge>
+<edge source="Kopenhagen" target="Paris"><data key="gewicht">1027.8</data></edge>
+<edge source="Kopenhagen" target="Rom"><data key="gewicht">1532.6</data></edge>
+<edge source="Kopenhagen" target="Den Haag"><data key="gewicht">673.9</data></edge>
+<edge source="Kopenhagen" target="Luxemburg"><data key="gewicht">803.6</data></edge>
+<edge source="Kopenhagen" target="Brüssel"><data key="gewicht">768.1</data></edge>
+<edge source="Kopenhagen" target="Dublin"><data key="gewicht">1240.8</data></edge>
+<edge source="Kopenhagen" target="London"><data key="gewicht">954.0</data></edge>
+<edge source="Kopenhagen" target="Athen"><data key="gewicht">2139.0</data></edge>
+<edge source="Kopenhagen" target="Madrid"><data key="gewicht">2075.7</data></edge>
+<edge source="Kopenhagen" target="Lissabon"><data key="gewicht">2480.6</data></edge>
+<edge source="Kopenhagen" target="Stockholm"><data key="gewicht">522.7</data></edge>
+<edge source="Dublin" target="Bonn"><data key="gewicht">957.3</data></edge>
+<edge source="Dublin" target="Paris"><data key="gewicht">778.4</data></edge>
+<edge source="Dublin" target="Rom"><data key="gewicht">1885.8</data></edge>
+<edge source="Dublin" target="Den Haag"><data key="gewicht">725.9</data></edge>
+<edge source="Dublin" target="Luxemburg"><data key="gewicht">951.3</data></edge>
+<edge source="Dublin" target="Brüssel"><data key="gewicht">774.7</data></edge>
+<edge source="Dublin" target="Kopenhagen"><data key="gewicht">1240.8</data></edge>
+<edge source="Dublin" target="London"><data key="gewicht">464.7</data></edge>
+<edge source="Dublin" target="Athen"><data key="gewicht">2857.5</data></edge>
+<edge source="Dublin" target="Madrid"><data key="gewicht">1452.7</data></edge>
+<edge source="Dublin" target="Lissabon"><data key="gewicht">1642.0</data></edge>
+<edge source="Dublin" target="Stockholm"><data key="gewicht">1629.7</data></edge>
+<edge source="London" target="Bonn"><data key="gewicht">509.2</data></edge>
+<edge source="London" target="Paris"><data key="gewicht">341.6</data></edge>
+<edge source="London" target="Rom"><data key="gewicht">1433.5</data></edge>
+<edge source="London" target="Den Haag"><data key="gewicht">309.0</data></edge>
+<edge source="London" target="Luxemburg"><data key="gewicht">487.4</data></edge>
+<edge source="London" target="Brüssel"><data key="gewicht">317.4</data></edge>
+<edge source="London" target="Kopenhagen"><data key="gewicht">954.0</data></edge>
+<edge source="London" target="Dublin"><data key="gewicht">464.7</data></edge>
+<edge source="London" target="Athen"><data key="gewicht">2393.0</data></edge>
+<edge source="London" target="Madrid"><data key="gewicht">1268.1</data></edge>
+<edge source="London" target="Lissabon"><data key="gewicht">1589.6</data></edge>
+<edge source="London" target="Stockholm"><data key="gewicht">1430.8</data></edge>
+<edge source="Athen" target="Bonn"><data key="gewicht">1932.8</data></edge>
+<edge source="Athen" target="Paris"><data key="gewicht">2100.6</data></edge>
+<edge source="Athen" target="Rom"><data key="gewicht">1053.0</data></edge>
+<edge source="Athen" target="Den Haag"><data key="gewicht">2176.3</data></edge>
+<edge source="Athen" target="Luxemburg"><data key="gewicht">1909.1</data></edge>
+<edge source="Athen" target="Brüssel"><data key="gewicht">2092.5</data></edge>
+<edge source="Athen" target="Kopenhagen"><data key="gewicht">2139.0</data></edge>
+<edge source="Athen" target="Dublin"><data key="gewicht">2857.5</data></edge>
+<edge source="Athen" target="London"><data key="gewicht">2393.0</data></edge>
+<edge source="Athen" target="Madrid"><data key="gewicht">2370.2</data></edge>
+<edge source="Athen" target="Lissabon"><data key="gewicht">2854.0</data></edge>
+<edge source="Athen" target="Stockholm"><data key="gewicht">2412.8</data></edge>
+<edge source="Madrid" target="Bonn"><data key="gewicht">1421.6</data></edge>
+<edge source="Madrid" target="Paris"><data key="gewicht">1055.4</data></edge>
+<edge source="Madrid" target="Rom"><data key="gewicht">1363.4</data></edge>
+<edge source="Madrid" target="Den Haag"><data key="gewicht">1435.4</data></edge>
+<edge source="Madrid" target="Luxemburg"><data key="gewicht">1279.9</data></edge>
+<edge source="Madrid" target="Brüssel"><data key="gewicht">1316.8</data></edge>
+<edge source="Madrid" target="Kopenhagen"><data key="gewicht">2075.7</data></edge>
+<edge source="Madrid" target="Dublin"><data key="gewicht">1452.7</data></edge>
+<edge source="Madrid" target="London"><data key="gewicht">1268.1</data></edge>
+<edge source="Madrid" target="Athen"><data key="gewicht">2370.2</data></edge>
+<edge source="Madrid" target="Lissabon"><data key="gewicht">503.8</data></edge>
+<edge source="Madrid" target="Stockholm"><data key="gewicht">2596.4</data></edge>
+<edge source="Lissabon" target="Bonn"><data key="gewicht">1846.4</data></edge>
+<edge source="Lissabon" target="Paris"><data key="gewicht">1454.7</data></edge>
+<edge source="Lissabon" target="Rom"><data key="gewicht">1863.8</data></edge>
+<edge source="Lissabon" target="Den Haag"><data key="gewicht">1814.2</data></edge>
+<edge source="Lissabon" target="Luxemburg"><data key="gewicht">1711.7</data></edge>
+<edge source="Lissabon" target="Brüssel"><data key="gewicht">1712.5</data></edge>
+<edge source="Lissabon" target="Kopenhagen"><data key="gewicht">2480.6</data></edge>
+<edge source="Lissabon" target="Dublin"><data key="gewicht">1642.0</data></edge>
+<edge source="Lissabon" target="London"><data key="gewicht">1589.6</data></edge>
+<edge source="Lissabon" target="Athen"><data key="gewicht">2854.0</data></edge>
+<edge source="Lissabon" target="Madrid"><data key="gewicht">503.8</data></edge>
+<edge source="Lissabon" target="Stockholm"><data key="gewicht">2991.7</data></edge>
+<edge source="Stockholm" target="Bonn"><data key="gewicht">1181.8</data></edge>
+<edge source="Stockholm" target="Paris"><data key="gewicht">1544.7</data></edge>
+<edge source="Stockholm" target="Rom"><data key="gewicht">1978.5</data></edge>
+<edge source="Stockholm" target="Den Haag"><data key="gewicht">1177.6</data></edge>
+<edge source="Stockholm" target="Luxemburg"><data key="gewicht">1326.2</data></edge>
+<edge source="Stockholm" target="Brüssel"><data key="gewicht">1283.3</data></edge>
+<edge source="Stockholm" target="Kopenhagen"><data key="gewicht">522.7</data></edge>
+<edge source="Stockholm" target="Dublin"><data key="gewicht">1629.7</data></edge>
+<edge source="Stockholm" target="London"><data key="gewicht">1430.8</data></edge>
+<edge source="Stockholm" target="Athen"><data key="gewicht">2412.8</data></edge>
+<edge source="Stockholm" target="Madrid"><data key="gewicht">2596.4</data></edge>
+<edge source="Stockholm" target="Lissabon"><data key="gewicht">2991.7</data></edge>
+</graph>
